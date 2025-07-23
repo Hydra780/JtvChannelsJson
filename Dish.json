@@ -160,5 +160,11 @@
         "id": "38",
         "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd",
         "license": "https://dishsun.vercel.app/api/keys?channel=63&token=bharat"
+    },
+    {
+        "channel": "Andtv",
+        "id": "380",
+        "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd",
+        "license": "https://dishsun.vercel.app/api/keys?channel=63&token=bharat"
     }
 ]
