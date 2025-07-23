@@ -128,25 +128,25 @@
     
     {
         "channel": "Andpictures",
-        "id": "63",
+        "id": "45",
         "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
         "license": "https://dishsun.vercel.app/api/keys?channel=63&token=bharat"
     },
         {
         "channel": "Ndtvindia2",
-        "id": "63",
+        "id": "46",
         "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd",
         "license": "https://dishsun.vercel.app/api/keys?channel=63&token=bharat"
     },
         {
         "channel": "Zeetelgu",
-        "id": "63",
+        "id": "50",
         "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd",
         "license": "https://dishsun.vercel.app/api/keys?channel=63&token=bharat"
     },
         {
         "channel": "Zeebangla",
-        "id": "63",
+        "id": "51",
         "mpd": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd",
         "license": "https://dishsun.vercel.app/api/keys?channel=63&token=bharat"
     },
