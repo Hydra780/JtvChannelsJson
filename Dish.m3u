@@ -1,0 +1,179 @@
+#EXTINF:-1 tvg-id="37" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTV_Transparent_b7e4a2f2-df3c-4fc1-8ad8-3ef088e17779.png" group-title="DTðŸ”¶Entertainment",Zee TV SD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=37&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=37&token=de-p
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&TV_Transparent_0a65cda1-49f3-48a8-a96f-4d697c95fd8d.png" group-title="DTðŸ”¶Entertainment",&TV SD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=38&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=38&token=de-p
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnmolCinema_Transparent_95984802-1b35-45de-bd3c-dd958c875e32.png" group-title="DTðŸ”¶Entertainment",Zee Anmol Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=39&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=39&token=de-p
+
+#EXTINF:-1 tvg-id="41" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="DTðŸ”¶Music", Zing
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=41&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=41&token=de-p
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeCinema_Transparent_f2367a94-e317-4018-be8c-8494b386d981.png" group-title="DTðŸ”¶Movies",Zee Cinema SD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=42&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=42&token=de-p
+
+#EXTINF:-1 tvg-id="43" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBollywood_Transparent_5f2498fc-402e-46f1-8149-a48823ab88a3.png" group-title="DTðŸ”¶Movies",Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=43&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=43&token=de-p
+
+#EXTINF:-1 tvg-id="44" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnmolCinema_Transparent_95984802-1b35-45de-bd3c-dd958c875e32.png" group-title="DTðŸ”¶Movies",Zee Anmol Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=44&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=44&token=de-p
+
+#EXTINF:-1 tvg-id="45" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&pictures_Transparent_e279a58a-b551-449c-9f43-1ebfe0504fe2.png" group-title="DTðŸ”¶Movies",&pictures SD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=45&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=45&token=de-p
+
+#EXTINF:-1 tvg-id="46" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="DTðŸ”¶News", NDTV India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=46&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=46&token=de-p
+
+#EXTINF:-1 tvg-id="47" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="DTðŸ”¶News", Zee Hindustan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=47&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=47&token=de-p
+
+#EXTINF:-1 tvg-id="48" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Business.png" group-title="DTðŸ”¶News",Zee Business
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=48&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=48&token=de-p
+
+#EXTINF:-1 tvg-id="49" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeKannada_Transparent_0ff3be6a-b44d-4e53-9780-964e2318e900.png" group-title="DTðŸ”¶Regional",Zee Kannada HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=49&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=49&token=de-p
+
+#EXTINF:-1 tvg-id="50" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/app_cover/1920x1080appbanner0d53261e16dc413eb7f558be744b8c2e.jpg" group-title="DTðŸ”¶Regional",Zee Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=50&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=50&token=de-p
+
+#EXTINF:-1 tvg-id="51" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Transparent_52c1d8d5-8c6f-4239-b2f2-17203a06dc5e.png" group-title="DTðŸ”¶Regional",Zee Bangla HD HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=51&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=51&token=de-p
+
+#EXTINF:-1 tvg-id="52" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeMarathi_Transparent_2c3d8b22-21f9-4864-91ac-301f2e48d037.png" group-title="DTðŸ”¶Regional",Zee Marathi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=52&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=52&token=de-p
+
+#EXTINF:-1 tvg-id="53" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Bihar Jharkhand.png" group-title="DTðŸ”¶Regional",Zee Bihar Jharkhand
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=53&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=53&token=de-p
+
+#EXTINF:-1 tvg-id="54" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeSarthak_Transparent_58deeb48-3ccd-45d8-8871-460741506361.png" group-title="DTðŸ”¶Regional",Zee Sarthak
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=54&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=54&token=de-p
+
+#EXTINF:-1 tvg-id="55" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaCinema_Transparent_b7797c44-8ef9-422a-9076-23c7099ca8fe.png" group-title="DTðŸ”¶Movies",Zee Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=55&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=55&token=de-p
+
+#EXTINF:-1 tvg-id="56" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTalkies_Transparent_55f8e68c-4ee4-4d6c-8629-1e75e120ba02.png" group-title="DTðŸ”¶Movies",Zee Talkies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=56&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=56&token=de-p
+
+#EXTINF:-1 tvg-id="57" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="DTðŸ”¶Kids", Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=57&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=57&token=de-p
+
+#EXTINF:-1 tvg-id="58" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="DTðŸ”¶Education", Discovery
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=58&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=58&token=de-p
+
+#EXTINF:-1 tvg-id="59" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="DTðŸ”¶Education", Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=59&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=59&token=de-p
+
+#EXTINF:-1 tvg-id="60" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="DTðŸ”¶Education", Discovery Investigation
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=60&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=60&token=de-p
+
+#EXTINF:-1 tvg-id="61" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="DTðŸ”¶Education", Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=61&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=61&token=de-p
+
+#EXTINF:-1 tvg-id="62" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="DTðŸ”¶Lifestyle", TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=62&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=62&token=de-p
+
+#EXTINF:-1 tvg-id="63" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="DTðŸ”¶Lifestyle", Zoom
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=63&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=63&token=de-p
+
+#EXTINF:-1 tvg-id="64" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="DTðŸ”¶Entertainment", Korean Drama Active
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=64&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=64&token=de-p
+
+#EXTINF:-1 tvg-id="65" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="DTðŸ”¶Entertainment", Shorts TV Active
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=65&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=65&token=de-p
+
+#EXTINF:-1 tvg-id="66" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="DTðŸ”¶Entertainment", Shorts TV Active
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=66&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=66&token=de-p
+
+#EXTINF:-1 tvg-id="67" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="DTðŸ”¶Entertainment", Shorts TV Active
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dishsun.vercel.app/api/keys?channel=67&token=de-p
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dishsun.vercel.app/api/stream?channel=67&token=de-p
